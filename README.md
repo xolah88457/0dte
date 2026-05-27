@@ -1,4 +1,4 @@
-# 0dte Hedging + Arb (this bot made me and my part %15,100 combined on BTC/USDT, ETH/USDT, and SOL/USDT, however it got patched)
+# 0dte Hedging + Arb (this bot made me and my partner %15,100 combined on BTC/USDT, ETH/USDT, and SOL/USDT, however it got patched)
 
 ---
 
